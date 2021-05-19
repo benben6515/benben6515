@@ -1,4 +1,5 @@
-### 👋 Hi, I’m @benben6515 [![](https://img.shields.io/static/v1?label=idemy&message=[MTR05]&style=flat&branch=6.x&logo=librarything&colorA=a45&colorB=333)](https://bootcamp.lidemy.com/) [![](https://img.shields.io/static/v1?label=&message=benben6515&style=flat&branch=6.x&logo=mattermost&color=037fc6) ](https://chat.lidemy.com/lidemy/messages/@benben6515) [![](https://www.codewars.com/users/z2266109/badges/micro)](https://www.codewars.com/users/z2266109) 
+### 👋 Hi, I’m @benben6515 [![](https://img.shields.io/static/v1?label=idemy&message=[MTR05]&style=flat&branch=6.x&logo=librarything&colorA=a45&colorB=333)](https://bootcamp.lidemy.com/) [![](https://www.codewars.com/users/z2266109/badges/micro)](https://www.codewars.com/users/z2266109) 
+- 🚀 Contact me : [![](https://img.shields.io/static/v1?label=&message=benben6515&style=flat&branch=6.x&logo=mattermost&color=037fc6) ](https://chat.lidemy.com/lidemy/messages/@benben6515) [![](https://img.shields.io/static/v1?label=&message=z2266109&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:z2266109@gmail.com)
 - 👀 I’m interested in : `Front-End` 
 - 🌱 I’m currently learning :
   - `React`
