@@ -16,6 +16,9 @@
   - [Lidemy HTTP Challenge](https://lidemy-http-challenge.herokuapp.com/start) : 01 - 15 ( all )
   - [CSS Dinner](https://flukeout.github.io/) : 01 - 32 ( all )
   - [Flexbox Froggy](http://flexboxfroggy.com/) : 01 -24 ( all )
+  - [Lidemy 綜合能力測驗](http://mentor-program.co/huli/game/index.php)
+  - [r3:0 異世界網站挑戰](https://r30challenge.herokuapp.com/) : 01 - 10
+
 
 <!---
 benben6515/benben6515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
