@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @benben6515 [![](https://img.shields.io/static/v1?label=idemy&message=[MTR05]&style=flat&branch=6.x&logo=librarything&colorA=a45&colorB=333)](https://bootcamp.lidemy.com/) [![](https://www.codewars.com/users/z2266109/badges/micro)](https://www.codewars.com/users/z2266109) 
 
 - 👀 I’m interested in : `Front-End` 
-- 🌱 I’m currently learning : `React`, `P5.js`, `D3.js`
+- 🌱 I’m currently learning : `React`, `P5.js`
 - 🚀 Contact me : 
 
 
