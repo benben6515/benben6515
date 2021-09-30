@@ -8,17 +8,19 @@
      [![](https://img.shields.io/static/v1?label=&message=benben6515&style=flat&branch=6.x&logo=mattermost&color=037fc6) ](https://chat.lidemy.com/lidemy/messages/@benben6515) [![](https://img.shields.io/static/v1?label=&message=z2266109&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:z2266109@gmail.com)
 
 
-![](https://i.imgur.com/GrmzakT.gif)
+<a target="_blank" href="https://openprocessing.org/sketch/1194583"><img src="https://i.imgur.com/GrmzakT.gif" width=300 /><a>
 > Create by @benben6515 used `P5.js`
 
-- 🚩Achievement : 
-  - [LidemyOJ (LIOJ)](https://oj.lidemy.com/) : 1001 - 1053 ( all )
-  - [Lidemy HTTP Challenge](https://lidemy-http-challenge.herokuapp.com/start) : 01 - 15 ( all )
-  - [CSS Dinner](https://flukeout.github.io/) : 01 - 32 ( all )
-  - [Flexbox Froggy](http://flexboxfroggy.com/) : 01 -24 ( all )
-  - [Lidemy 綜合能力測驗](http://mentor-program.co/huli/game/index.php)
-  - [r3:0 異世界網站挑戰](https://r30challenge.herokuapp.com/) : 01 - 10
 
+<details>
+  <summary>🚩Achievement</summary>
+    <ul>
+      <li><a target="_blank" href="https://oj.lidemy.com/">LidemyOJ (LIOJ)</a> : 1001 - 1053 ( all )</li>
+      <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li>
+      <li><a target="_blank" href="https://flukeout.github.io"/>CSS Dinner</a> : 01 - 32 ( all )</li>
+      <li><a target="_blank" href="http://flexboxfroggy.com/">Flexbox Froggy</a> : 01 -24 ( all )</li>
+    </ul>
+</details>
 
 <!---
 benben6515/benben6515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
