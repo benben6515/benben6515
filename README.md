@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @benben6515 [![](https://img.shields.io/static/v1?label=idemy&message=[MTR05]&style=flat&branch=6.x&logo=librarything&colorA=a45&colorB=333)](https://bootcamp.lidemy.com/) [![](https://www.codewars.com/users/z2266109/badges/micro)](https://www.codewars.com/users/z2266109) 
 
-<p align="center">A `Front-End` developer from Taiwan</p>
+<p align="center">A <b>Front-End</b> developer from Taiwan</p>
 
 - 👀 I’m interested in : `React/Redux`, `Vue/Vuex`, `Node.js`, `P5.js` ...
 - 🌱 I’m currently learning : `Vim`, `Sharpen Vue 3`, `TypeScript`
