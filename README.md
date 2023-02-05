@@ -22,10 +22,7 @@
 - 👀 I’m interested in : `React/Redux`, `Vue/Vuex`, `Node.js`, `P5.js` ...
 - 🌱 I’m currently learning : `Vim`, `TypeScript`, `Clean Code`
 
-###
-
-<a target="_blank" href="https://openprocessing.org/sketch/1194583"><img src="https://i.imgur.com/GrmzakT.gif" width=300 /><a>
-> Create by @benben6515 used `P5.js`
+---
 
 <h3 align="left">Main Languages and Tools</h3>
 
@@ -106,15 +103,20 @@
 </a>
 </p>
 
+---
 
 <details>
   <summary>🚩Achievement</summary>
-    <ul>
-      <li><a target="_blank" href="https://oj.lidemy.com/">LidemyOJ (LIOJ)</a> : 1001 - 1053 ( all )</li>
-      <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li>
-      <li><a target="_blank" href="https://flukeout.github.io"/>CSS Dinner</a> : 01 - 32 ( all )</li>
-      <li><a target="_blank" href="http://flexboxfroggy.com/">Flexbox Froggy</a> : 01 -24 ( all )</li>
-    </ul>
+  
+  <a target="_blank" href="https://openprocessing.org/sketch/1194583"><img src="https://i.imgur.com/GrmzakT.gif" width=300 /><a>
+  <p>Create by @benben6515 used P5.js </p>
+
+  <ul>
+    <li><a target="_blank" href="https://oj.lidemy.com/">LidemyOJ (LIOJ)</a> : 1001 - 1053 ( all )</li>
+    <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li>
+    <li><a target="_blank" href="https://flukeout.github.io"/>CSS Dinner</a> : 01 - 32 ( all )</li>
+    <li><a target="_blank" href="http://flexboxfroggy.com/">Flexbox Froggy</a> : 01 -24 ( all )</li>
+  </ul>
 </details>
 
 <!---
