@@ -1,15 +1,28 @@
-# 👋 Hi, I’m @benben6515 [![](https://img.shields.io/static/v1?label=idemy&message=[MTR05]&style=flat&branch=6.x&logo=librarything&colorA=a45&colorB=333)](https://bootcamp.lidemy.com/) [![](https://www.codewars.com/users/z2266109/badges/micro)](https://www.codewars.com/users/z2266109) 
+# 👋 Hi, I’m @benben6515 [![](https://img.shields.io/static/v1?label=idemy&message=[MTR05]&style=flat&branch=6.x&logo=librarything&colorA=a45&colorB=333)](https://bootcamp.lidemy.com/) [![](https://www.codewars.com/users/z2266109/badges/micro)](https://www.codewars.com/users/z2266109) [![](https://img.shields.io/static/v1?label=&message=z2266109&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:z2266109@gmail.com)
 
 <p align="center">A <b>Front-End</b> developer from Taiwan</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=benben6515" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=benben6515" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/b/count.svg?"  />
+</div>
+
+###
 
 - 🖊️ I'm also a writer at [ErrorBaker 技術共筆部落格](https://blog.errorbaker.tw/), you can check out [my article list](https://blog.errorbaker.tw/posts/benben/) if you're interesting.
 - 📚 I like reading book, you can check out [my reading list](https://hackmd.io/@benben6515/reading-list) if you're interesting.
 - 👀 I’m interested in : `React/Redux`, `Vue/Vuex`, `Node.js`, `P5.js` ...
 - 🌱 I’m currently learning : `Vim`, `TypeScript`, `Clean Code`
-- 🚀 Contact me : <p></p>
 
-     [![](https://img.shields.io/static/v1?label=&message=benben6515&style=flat&branch=6.x&logo=mattermost&color=037fc6) ](https://chat.lidemy.com/lidemy/messages/@benben6515) [![](https://img.shields.io/static/v1?label=&message=z2266109&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:z2266109@gmail.com)
-
+###
 
 <a target="_blank" href="https://openprocessing.org/sketch/1194583"><img src="https://i.imgur.com/GrmzakT.gif" width=300 /><a>
 > Create by @benben6515 used `P5.js`
