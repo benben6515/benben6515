@@ -17,8 +17,8 @@
 
 ###
 
-- 🖊️ I'm also a writer at [ErrorBaker 技術共筆部落格](https://blog.errorbaker.tw/), you can check out [my article list](https://blog.errorbaker.tw/posts/benben/) if you're interesting.
-- 📚 I like reading book, you can check out [my reading list](https://hackmd.io/@benben6515/reading-list) if you're interesting.
+- 🖊️ I'm also a writer at [ErrorBaker 技術共筆部落格](https://blog.errorbaker.tw/), you can check out [my article list](https://blog.errorbaker.tw/posts/benben/) if you're interested.
+- 📚 I like reading book, you can check out [my reading list](https://hackmd.io/@benben6515/reading-list) if you're interested.
 - 👀 I’m interested in : `React/Redux`, `Vue/Vuex`, `Node.js`, `P5.js` ...
 - 🌱 I’m currently learning : `Vim`, `TypeScript`, `Clean Code`
 
@@ -106,7 +106,7 @@
 ---
 
 <details>
-  <summary>🚩Achievement</summary>
+  <summary>🚩 Some Records/Practice</summary>
   
   <a target="_blank" href="https://openprocessing.org/sketch/1194583"><img src="https://i.imgur.com/GrmzakT.gif" width=300 /><a>
   <p>Create by @benben6515 used P5.js </p>
